@@ -1,5 +1,5 @@
-### About
+### Sobre
 
-Hello, I’m Diego D. 👊🏿
+Olá, eu sou o Diego D. 👊🏿
 
-Professional with solid experience in IT infrastructure, currently transitioning to software development with a focus on Java. Known for an analytical profile, quick learning ability, and strong teamwork skills. Looking to apply technical background and systemic vision to build efficient and scalable solutions.
+Profissional com sólida experiência em infraestrutura de TI, em transição para a área de desenvolvimento de sistemas com foco na linguagem Java. Se destaca pelo perfil analítico com facilidade para aprendizado contínuo e trabalho em equipe. Busca aplicar sua bagagem técnica e visão sistêmica na construção de soluções eficientes e escaláveis.
